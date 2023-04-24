@@ -15,4 +15,20 @@ body {
 header {
     height: 100px;
     background-color: white;
+    line-height: 100px;
+    padding-left: 20px;
+}
+
+/*LOGO*/
+#logo {
+    height: 50px;
+    vertical-align: middle;
+}
+
+/*TITOLO DELLA PAGINA*/
+h1 {
+    display: inline;
+    font-size: 50px;
+    font-weight: 800;
+    vertical-align: middle;
 }
