@@ -51,3 +51,24 @@ h1 {
 .card-body {
     padding: 20px 20px;
 }
+
+/*BUTTON*/
+.btn {
+    font-size: 15px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: lightskyblue;
+    border: 1px solid transparent;
+    text-decoration: none;
+}
+
+.btn2 {
+    font-size: 15px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: gray;
+    background-color: white;
+    border: 1px solid gray;
+    text-decoration: none;
+}
