@@ -113,5 +113,13 @@ h3 {
 /*TASK TEXT*/
 .task-text {
     vertical-align: middle;
+}
 
+/*BADGE*/
+.badge{
+    border-radius: 8px;
+    color:white;
+    padding: 5px 10px;
+    font-size: 10px;
+    background-color: grey;
 }
