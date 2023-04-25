@@ -121,5 +121,31 @@ h3 {
     color:white;
     padding: 5px 10px;
     font-size: 10px;
+    vertical-align: middle;
     background-color: grey;
+}
+
+/*COLORI*/
+.bg-purple {
+    background-color: purple;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-lightgreen {
+    background-color: lightgreen;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.bg-blue {
+    background-color: blue;
 }
