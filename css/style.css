@@ -79,6 +79,7 @@ ul {
     list-style-type: none;
 }
 
+/*H3*/
 h3 {
     margin-bottom: 20px;
 }
@@ -101,9 +102,9 @@ h3 {
     border: 1px solid currentColor;
 }
 
+/*TASK STATUS*/
 .task-status.task-done {
     color: green;
-    
 }
 
 .task-status.task-undone {
